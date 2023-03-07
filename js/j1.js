@@ -1,1 +1,3 @@
-console.log("SELECCIONE COLOR DEL TEXTO");
+document.getElementById("rojo").addEventListener('click' function(){
+    document.body.style.color = "red";
+})
