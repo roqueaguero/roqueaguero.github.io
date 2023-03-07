@@ -4,6 +4,6 @@ function cambiarcolor(color) {
 
 
 
-document.getElementById('rojo').onclick = function () {
+document.getElementById('rojo').onclick = function() {
     document.body.style.color = "red";
 } 
