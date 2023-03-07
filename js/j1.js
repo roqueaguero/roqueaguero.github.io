@@ -1,3 +1,3 @@
-todorojo() {
-document.body.color="red";
-}
+document.getElementById(rojo).addEventListener('click', function() {
+    document.body.style.color = "red";
+}) 
