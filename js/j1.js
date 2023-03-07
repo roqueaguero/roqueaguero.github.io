@@ -1,1 +1,1 @@
-console.log("SELECIONE COLOR DEL TEXTO");
+console.log("SELECCIONE COLOR DEL TEXTO");
